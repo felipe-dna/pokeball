@@ -1,7 +1,3 @@
-An for fun project ^-^
+# Pokeball
 
-# pokeball
-Author: Felipe David Amador
-		felipedavidamador@gmail.com
-		@felipedna.py
-		
+just a fun project ^-^
